@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BurakPozut
 - 👀 I’m interested in game development, apps and algorithms.
-- 🌱 I’m currently learning pyhton
 - 📫 How to reach me e-mail: burakpozut88@gmail.com
 
 <!---
