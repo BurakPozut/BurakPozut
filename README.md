@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurakPozut
-- 👀 I’m interested in game development, apps and algorithms.
+- 👀 I’m interested in game development.
 - 📫 How to reach me e-mail: burakpozut88@gmail.com
 
 <!---
