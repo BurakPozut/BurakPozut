@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurakPozut
 - 👀 I’m interested in web development.
-- 📫 How to reach me e-mail: burakpozut88@gmail.com
+- 📫 How to reach me e-mail: burakpozut@gmail.com
 
 <!---
 BurakPozut/BurakPozut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
